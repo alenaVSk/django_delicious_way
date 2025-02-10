@@ -7,7 +7,7 @@
 С целью получения опыта приложение было развернуто на хостинге "Beget" (локально установлен Python, настроено виртуальное окружение, установлен Django, перенесено приложение), 
 базы данных расположены на облаке "Beget" (для дампа в папке coolsite находится db.json).    
 
-Посмотреть website screenshot ["Вкусный путь-пройдём вместе"](http://elenavqk.beget.tech/](https://github.com/alenaVSk/Photo_Image/tree/main/Images%20delicious_way)). 
+Посмотреть website screenshot ["Вкусный путь-пройдём вместе"](https://github.com/alenaVSk/Photo_Image/tree/main/Images%20delicious_way). 
 
 ## Установка
 1.Склонируйте репозиторий на свой локальный компьютер: 
